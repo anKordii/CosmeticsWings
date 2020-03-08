@@ -1,7 +1,7 @@
 
 <h1>Cosmetics Wings</h1>
 
-<p>with downloading texture from Url</p>
+<li>with downloading texture from Url</li>
 <img src="https://i.imgur.com/sWidYhJ.png">
 
 <h1>Note:</h1>
