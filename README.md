@@ -35,8 +35,5 @@
 
 <h1>Informacje</h1>
 
-<li> Plugin napisany na Javę 1.8</li>
+<li> Mod made on 1.8.8</li>
 
-<li> Wersja obslugiwanego silniku 1.8 - 1.12.1</li>
-
-<li> Plugin napisany w środowisku inteliJ idea 2016</li>
