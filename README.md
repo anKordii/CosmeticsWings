@@ -1,6 +1,7 @@
 
 <h1>Cosmetics Wings</h1>
 
+<p>With URL download texture</p>
 <img src="https://i.imgur.com/sWidYhJ.png">
 
 <h1>Informations</h1>
