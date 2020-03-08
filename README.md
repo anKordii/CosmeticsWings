@@ -1,5 +1,7 @@
-#Cosmetics Wings
-<h1>Do czego ten plugin służy?</h1>
+
+<h1>Cosmetics Wings</h1>
+
+<img src="https://i.imgur.com/5JqIR9m.png">
 
 <li> Możliwość manipulacji czatem</li>
 
@@ -38,21 +40,3 @@
 <li> Wersja obslugiwanego silniku 1.8 - 1.12.1</li>
 
 <li> Plugin napisany w środowisku inteliJ idea 2016</li>
-
-<h1>Komendy</h1>
-
-<li> /chat - glówna komęda zarządzania chatem</li>
-
-<li> /case - glówna komęda zarządzania rozdawaniem skrzynek [NEW]</font></li>
-
-<li> /itemshop - glówna komęda zarządzania wiadomosciami ze sklepu [NEW]</font></li>
-
-<li> /autor - komenda z informacjami o autorze [NEW]</font></li>
-
-<li> /pomoc - pomocne komendy</li>
-
-<h1>Download</h1>
-
-Release: <a href="http://www47.zippyshare.com/v/v3wslEtF/file.html">Download</a>
-
-<img src="https://i.imgur.com/5JqIR9m.png">
