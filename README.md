@@ -5,7 +5,9 @@
 
 <li> Możliwość manipulacji czatem</li>
 
-<h1>Informacje</h1>
+<h1>Informations</h1>
 
-<li> Mod made on 1.8.8</li>
+<li>Mod made on 1.8.8</li>
+
+<li>CosmeticsWingsURL are based on <a href="https://github.com/egold555/MCP-Snippets/tree/master/UrlTextureUtil">Eric UrlTextureUtil</a></li>
 
