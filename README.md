@@ -1,7 +1,7 @@
 
 <h1>Cosmetics Wings</h1>
 
-<img src="https://static.xbay.pl/vods/9BNYMJMCVDKUB5PS4VVFKFGSK/wings.gif">
+![](https://static.xbay.pl/vods/9BNYMJMCVDKUB5PS4VVFKFGSK/wings.gif)
 
 <li> Możliwość manipulacji czatem</li>
 
