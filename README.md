@@ -3,8 +3,6 @@
 
 <img src="https://i.imgur.com/sWidYhJ.png">
 
-<li> Możliwość manipulacji czatem</li>
-
 <h1>Informations</h1>
 
 <li>Mod made on 1.8.8</li>
