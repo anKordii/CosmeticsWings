@@ -1,7 +1,7 @@
 
 <h1>Cosmetics Wings</h1>
 
-![GIF](https://media.giphy.com/media/dxxqwBfiGb5wreCcEg/source.gif)
+![GIF](https://media.giphy.com/media/dxxqwBfiGb5wreCcEg/200w_d.gif)
 
 <li> Możliwość manipulacji czatem</li>
 
