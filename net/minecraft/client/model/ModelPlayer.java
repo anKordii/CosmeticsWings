@@ -1,6 +1,6 @@
 public class ModelPlayer extends ModelBiped
 {
-    //add under this `CosmeticWings cosmeticWings;`
+    //🌟 add under this `CosmeticWings cosmeticWings;`
     public ModelRenderer bipedLeftArmwear;
     public ModelRenderer bipedRightArmwear;
     public ModelRenderer bipedLeftLegwear;
@@ -10,11 +10,11 @@ public class ModelPlayer extends ModelBiped
     private ModelRenderer bipedDeadmau5Head;
     private boolean smallArms;
     /**
-    * HERE
+    * 🌟HERE
     */
     CosmeticWings cosmeticWings;
     
-    //In Render add `this.cosmeticWings.RenderWings(entityIn.isSneaking(), entityIn, 1);`
+    //🌟 In Render add `this.cosmeticWings.RenderWings(entityIn.isSneaking(), entityIn, 1);`
     public void render(Entity entityIn, float p_78088_2_, float p_78088_3_, float p_78088_4_, float p_78088_5_, float p_78088_6_, float scale)
     {
         super.render(entityIn, p_78088_2_, p_78088_3_, p_78088_4_, p_78088_5_, p_78088_6_, scale);
@@ -46,7 +46,7 @@ public class ModelPlayer extends ModelBiped
         }
 
         /**
-        * HERE
+        * 🌟HERE
         */
         this.cosmeticWings.RenderWings(entityIn.isSneaking(), entityIn, 1);
         
