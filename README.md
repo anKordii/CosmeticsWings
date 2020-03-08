@@ -4,7 +4,11 @@
 <p>with downloading texture from Url</p>
 <img src="https://i.imgur.com/sWidYhJ.png">
 
-<h1>Informations</h1>
+<h1>Note:</h1>
+<li>If you using cloudflare for domain you need disable protection for subdomain</li>
+<img src="https://i.imgur.com/9d9H1aR.png">
+
+<h1>Informations:</h1>
 
 <li>Mod made on 1.8.8</li>
 
